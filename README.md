@@ -1,4 +1,3 @@
-````markdown
 # iOS 18.3.2 Universal ARM64 Jailbreak PoC
 
 ## Complete Technical Breakdown
